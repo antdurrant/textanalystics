@@ -1,0 +1,18 @@
+Package: textanalystics
+Title: Text Analytics and Wordlists
+Version: 0.0.0.9000
+Authors@R: person('Anthony', 'Durrant', email = 'antdurrant@gmail.com', role = c('cre', 'aut'))
+Description: Get analytics and wordlists on text as you write, or scrape text from pdfs.
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny,
+    tidyr,
+    udpipe,
+    reticulate,
+    dplyr,
+    readr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
